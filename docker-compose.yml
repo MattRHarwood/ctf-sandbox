@@ -1,0 +1,5 @@
+services:
+  kali:
+    build: .
+    volumes:
+      - ./challenges:/challenges
