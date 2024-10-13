@@ -1,6 +1,5 @@
 run: clean
-	docker compose pull
-	docker compose up --build
+	docker compose run -it ctf_sandbox
 
 update:
 	docker compose pull

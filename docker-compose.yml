@@ -1,5 +1,5 @@
 services:
-  kali:
+  ctf_sandbox:
     build: .
     volumes:
-      - ./challenges:/challenges
+      - ./challenges:/challenges:rw
