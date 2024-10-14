@@ -1,7 +1,9 @@
-## CTF playground
+## CTF Sandbox
 
 This repo is meant to provide a way terminal sandbox for doing
 ctf exercises.
+
+**WARNING**: this image is very large - 8.26GB 
 
 # How to use the repo
 
