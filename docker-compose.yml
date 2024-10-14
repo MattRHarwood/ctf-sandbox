@@ -2,4 +2,4 @@ services:
   ctf_sandbox:
     build: .
     volumes:
-      - ./challenges:/challenges:rw
+      - ./data:/ctf-data:rw
